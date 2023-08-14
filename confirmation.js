@@ -16,12 +16,6 @@ function loadLabels() {
 
 
 
-
-
-
-
-
-
         document.getElementById("newname").innerText = localStorage.getItem("fullName");
 
         document.getElementById("newnumber").innerText = localStorage.getItem("mobileNumber");
